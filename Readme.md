@@ -44,7 +44,7 @@ Before you begin, ensure you have the following:
 6. **Clone this repository**: Clone this repository to your Raspberry Pi:
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   https://github.com/Beurokrat/IoT-home-automation.git
    cd yourrepository
    ```
 
